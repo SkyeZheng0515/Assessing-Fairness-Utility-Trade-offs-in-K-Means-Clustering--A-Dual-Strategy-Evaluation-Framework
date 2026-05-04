@@ -1,0 +1,17 @@
+# Fair Clustering Evaluation Framework
+# Python 3.8+
+ 
+# Core
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+ 
+# Machine Learning
+scikit-learn>=1.2
+ 
+# Visualisation
+matplotlib>=3.6
+seaborn>=0.12
+ 
+# Excel I/O
+openpyxl>=3.1
