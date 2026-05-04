@@ -20,8 +20,7 @@ Download the five datasets and place them under `data/`:
 ## Algorithms
 
 K-Means
-
-Fairlet Decomposition
+/n Fairlet Decomposition
 
 Balanced Fair K-means (BFKM)
 
