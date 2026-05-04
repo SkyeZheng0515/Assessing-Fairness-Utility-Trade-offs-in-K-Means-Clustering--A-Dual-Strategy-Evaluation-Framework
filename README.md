@@ -19,7 +19,7 @@ Download the five datasets and place them under `data/`:
 
 ## Algorithms
 
-K-Means, Fairlet, BFKM, CCF, PP-NFP, PP-Gini, Rawlsian K-Means
+K-Means, Fairlet Decomposition, Balanced Fair K-means (BFKM), Cluster-level Centroid Fairness (CCF), Post-Processing Based Nearest Foreign Point (PP-NFP), Post-Processing Based Gini (PP-Gini), Rawlsian K-Means
 
 ## Execute
 
