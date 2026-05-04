@@ -53,7 +53,7 @@ results/normalized/S2 Fairness.xlsx
 **Step 3 — Run normalization**
 
 ```
-04_result_normalization.ipynb
+Result_normalization.ipynb
 ```
 
 Reads the four Excel files above and outputs scaled (0-1) to the same `results/normalized/` folder.
