@@ -34,7 +34,7 @@ Rawlsian K-Means
 ```
 Strategy1_all_algorithms.ipynb
 Strategy2_kmeans_fairlet_bfkm.ipynb
-Strategy2_ccf_ppnfp_ppgini_rawlsian.ipynb    ← run after 02
+Strategy2_ccf_ppnfp_ppgini_rawlsian.ipynb
 ```
 
 Each notebook saves results as `.pkl` and `.csv` files under `results/strategy1/` and `results/strategy2/`.
