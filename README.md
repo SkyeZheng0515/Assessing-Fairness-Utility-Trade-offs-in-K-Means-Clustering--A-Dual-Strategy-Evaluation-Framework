@@ -1,5 +1,6 @@
 # Assessing Fairness in Clustering: A Dual-Strategy Evaluation Framework
 
+This study proposes an evaluation framework for fairness-aware clustering and benchmarks 7 fairness-aware clustering algorithms across 5 real-world datasets under two k-selection strategies. Strategy 1 applies a consensus k, selected from Standard K-Means via a majority vote across six methods, uniformly to all algorithms for controlled comparison. Strategy 2 allows each algorithm to select its own optimal k via combined score, revealing the best attainable performance. Results are evaluated across clustering utility, external validity, and group fairness metrics.
 
 ## Setup
 
